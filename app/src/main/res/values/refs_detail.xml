@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="layout_masterdetail" type="layout">@layout/video_item_fragment</item>
+</resources>

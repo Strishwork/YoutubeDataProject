@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">YouTubeDataApp</string>
+    <string name="new_video">Add new video</string>
+    <string name="refresh">Refresh</string>
+    <string name="currentLikesCount">Current likes count: </string>
+    <string name="goal">Goal: </string>
+    <string name="goal_empty">Set your goal</string>
+    <string name="go_to_origin">Go to origin</string>
+    <string name="set_goal">Set goal</string>
+</resources>
