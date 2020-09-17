@@ -8,7 +8,6 @@ public class VideoItem {
     private String mThumbnailUrl;
     private int mLikesCount;
     private int mGoal;
-    //1111
 
     public VideoItem(String url){
         mLink = url;
